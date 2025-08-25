@@ -1,5 +1,5 @@
 # Marketing for Founders
-_**TL;DR: This is a hyper-practical collection of marketing resources for founders looking to grow their startup.**_
+_**TL;DR: This is a collection of practical resources to get your first 10/100/1000 users.**_
 \
 \
 \
@@ -9,10 +9,10 @@ While there’s a ton of advice out there, most of the time it's about scaling s
 
 Inspirational? Sure. Actionable? Not really.
 
-This is why you’ll find here a practical collection of guides, tips, and some tools to help you:
-- 🎯 find the first few users for your startup
+This is why you’ll find here practical guides, tips, and some tools to help you:
+- 🎯 find the first users for your startup
 - 📣 promote your project without a budget
-- 🚀 scale your marketing activities
+- 🚀 build your Go-To-Market strategy
 <br/><br/><br/>
 
 **Ready to get started? Just pick a topic:**
@@ -24,14 +24,18 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
 - [👩‍🏫 Influencer Marketing](#-influencer-marketing)
+- [💑 Affiliates and Referrals](#-affiliates-and-referrals) _**NEW!**_
+- [🛠 Free-Tool Marketing](#-free-tool-marketing) _**NEW!**_
 - [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning)
 - [🎰 Pricing](#-pricing)
-- 💡 Idea Validation - coming soon
+- [🔥 Conversion Rate Optimization](#-conversion-rate-optimization) _**NEW!**_
+- [💡 Idea Validation](#-idea-validation)
 - ⚗ User Research - coming soon
-- [🧨 Other resources](#-other-resources) _**NEW!**_
+- [🧨 Other resources](#-other-resources)
 
-_**PS. Leave me a star ⭐ if you find this useful!**_
+_**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
 <br/><br/><br/>
+
 ## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
@@ -81,6 +85,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [Startups](https://www.reddit.com/r/startups/)
 - [EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)
 - [BuyFromEU](https://www.reddit.com/r/BuyFromEU/)
+- [Buildinpublic](https://www.reddit.com/r/buildinpublic/)
 
 **PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
@@ -113,8 +118,14 @@ So, how can you find people on target? What should you write in your messages? A
 Here are a few ideas:
 - [The Ultimate Framework to build your Ideal Customer Profile](https://www.mrrunlocked.com/p/framework-ideal-customer-profile)
 - [Before there is Ideal, there is Early (Customer Profile)](https://knowledge.gtmstrategist.com/p/before-there-is-ideal-there-is-early)
+- [Ideal Customer Profile tips from Posthog](https://posthog.com/newsletter/ideal-customer-profile-framework)
+- [How to analyze your early customers to validate your ICP](https://www.mrrunlocked.com/p/analyze-your-icp)
 - [B2B Ideal Customer Profile Template](https://miro.com/miroverse/ideal-customer-profile-b2b-persona/)
 - [How to do startup sales with no experience](https://posthog.com/founders/startup-sales-strategy)
+- [Master LinkedIn Sales Navigator in < 90 min](https://www.mrrunlocked.com/p/linkedin-sales-navigator-guide)
+- [The GTM Outreach Playbook: From Triggers to Demos](https://knowledge.gtmstrategist.com/p/the-gtm-outreach-playbook-from-triggers-to-demos)
+- [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
+- [4 Must-Have Email Templates in SaaS Sales](https://www.mrrunlocked.com/p/the-4-must-have-sales-email-templates)
 - [The Cold Outbound Handbook](https://www.za-zu.com/handbook/intro)
 - [The ultimate guide to setting up a cold email growth system](https://coldstartblueprint.com/p/cold-email-setup)
 - [The Best Outbound Tech Stack for Early-Stage Startups](https://www.mrrunlocked.com/p/the-best-outbound-tech-stack)
@@ -125,7 +136,6 @@ Here are a few ideas:
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
 - [A 6-step framework to grow sales as a founder](https://www.growthunhinged.com/p/founder-led-sales-framework)
 - [Examples of proven sales plays to create a sales pipeline](https://www.elenaverna.com/p/examples-of-proven-sales-plays-to)
-- [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
 - [How to create a high-converting Sales Deck](https://www.mrrunlocked.com/p/high-converting-sales-deck)
 
 <br/><br/><br/>
@@ -141,9 +151,13 @@ These guides and tips will help you get started:
 - [SEO strategy from Simple Analytics](https://1millionarr.substack.com/p/part-2-how-to-get-your-first-1000)
 - [Non-obvious SEO advice for startups](https://posthog.com/newsletter/seo-for-startups)
 - [Use-case-led SEO: A strategy for sustainable organic growth](https://playbooks.hypergrowthpartners.com/p/use-case-led-seo-a-strategy-for-organic)
+- [The Future of SEO is User-Generated Content](https://www.elenaverna.com/p/the-future-of-seo-is-user-generated)
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
 - [SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
+- [How to get recommended by ChatGPT](https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
+- [A hands-on guide to ranking across AI search engines like ChatGPT, Perplexity, and Google](https://knowledge.gtmstrategist.com/p/how-to-win-the-new-seo-game-ai-search)
+- [How Tally Turned AI into Their Top Acquisition Source](https://justinhammond.substack.com/p/how-tally-turned-ai-into-their-top)
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
 
@@ -174,9 +188,13 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [The Best Reddit Marketing Guide for Beginners](https://redreach.ai/reddit-marketing-guide)
 - [The Reddit Marketing Guide](https://spacestationlabs.notion.site/The-Reddit-Marketing-Guide-16c6915e04af8063aa38e7af3fa2577d)
 - [A how-to guide for writing original content that works](https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
+- [How I used Reddit to get our first 1,000 customers](https://readfoundertofounder.com/p/how-i-used-reddit-to-get-our-first-1-000-customers)
+- [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
 - [How to effectively create content for developers](https://www.markepear.dev/blog/developer-content-marketing)
 - A behind the scenes look at MKT1's content strategy [part 1](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-1) and [part 2](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-2)
+- [How I promote my content - Marketing Examples](https://marketingexamples.com/content/sharing)
+- [Content distribution checklist (thanks to Ross Simmonds)](https://docs.google.com/spreadsheets/d/1XaqKmHnMcRRznR-JQJsktlzkZ2fRmszGWZTeLeRyYZk/edit?gid=210200339#gid=210200339)
 
 <br/><br/><br/>
 
@@ -188,8 +206,10 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [The No-Fluff LinkedIn Ads Playbook](https://knowledge.gtmstrategist.com/p/the-no-fluff-linkedin-ads-playbook)
 - [How to get started with LinkedIn Ads for early-stage B2B SaaS startups](https://www.mrrunlocked.com/p/how-to-get-started-with-linkedin)
 - [The guide to advertise your SaaS & Software on Facebook](https://makerads.guide/)
+- [Free B2B Ads courses from AdConversion](https://www.adconversion.com/courses)
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
 - [250+ DevTool Ads examples](https://www.reo.dev/devtools-ad-examples)
+- [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/founders/dev-marketing-paid-ads)
 
 <br/><br/><br/>
 
@@ -200,6 +220,26 @@ However, online advice on influencer marketing is often bad and outdated, so let
 - [Should Influencers be part of your GTM Strategy?](https://knowledge.gtmstrategist.com/p/should-influencers-be-part-of-your)
 - [Short Form Playbook from Jenny AI](https://www.starterstory.com/10m-playbook?utm_source=youtube&utm_campaign=10msaasplaybook) (also watch this [video](https://www.youtube.com/watch?v=KcCnqLBhvXY))
 - [How Clerk Partners with YouTube’s Dev Community](https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes)
+
+<br/><br/><br/>
+
+## 💑 Affiliates and Referrals
+Word-of-mouth is often the main growth driver for bootstrapped startups. Why? Because affiliate and referral programs are easy to set up, cheap (you only pay if the user converts), and build trust and credibility (when users recommend your product, you’re not only getting traffic, but also social proof that it works).
+
+- [10 steps for a great Referral Program](https://thegrowthmind.substack.com/p/10-steps-for-a-great-referral-program)
+- [Your guide to B2B referrals](https://www.growthunhinged.com/p/your-guide-to-b2b-referrals)
+- [Your ultimate guide to affiliate referrals for B2B SaaS](https://www.mrrunlocked.com/p/your-ultimate-guide-to-affiliate-referrals)
+- [8 Affiliate & Referral Email Examples](https://pin.it/5BxRb4Zv4)
+
+<br/><br/><br/>
+
+## 🛠 Free-Tool Marketing
+Free mini tools are your best bet on going viral, generating PR coverage and backlinks, and driving a ton of organic traffic. Plus, it doesn’t feel like marketing (that’s the reason why it’s also called Engineering as Marketing).
+
+- [Mini tools are 10x more powerful than free trials](https://www.marketingideas.com/p/mini-tools-are-10x-more-powerful)
+- [Side Project Marketing: What Is It & How to Do It](https://www.failory.com/blog/side-project-marketing)
+- [Engineering as Marketing (with examples from Hubspot, Shopify & Ahrefs)](https://thegrowthmind.substack.com/p/engineering-as-marketing)
+- [Building Free Tools for Marketing (SEO)](https://dmytrokrasun.com/posts/building-free-tools-for-marketing-seo/)
 
 <br/><br/><br/>
 
@@ -240,6 +280,32 @@ Here are a few frameworks to get your price right:
 
 <br/><br/><br/>
 
+## 🔥 Conversion Rate Optimization
+Little tweaks can have a huge impact on conversions. Here are a few ideas ready for you to A/B test:
+
+- [Are you making this website mistake?](https://web.archive.org/web/20250210005430/https://www.marketingideas.com/p/are-you-making-this-website-mistake)
+- [Surprising lessons from 20,000 experiments](https://www.growthunhinged.com/p/surprising-lessons-website-conversion)
+- [The most powerful CTA? Hint: It's definitely not "Book a Demo"](https://www.marketingideas.com/p/the-most-powerful-cta)
+- [23% more trial signups after paywall redesign](https://marketingexamples.com/landing-page/blinkist)
+- [One blurry background = 94% more conversions](https://web.archive.org/web/20250319080954/https://www.marketingideas.com/p/my-weirdest-ab-test-blew-everyones)
+
+<br/><br/><br/>
+
+## 💡 Idea Validation
+One of the most common and painful mistakes you can make is having an idea and immediately spending all your time building a product without validating demand first.
+
+Some ideas are great, but most aren’t worth your time. So, how can you validate a startup idea?
+
+- [The 2/20/200 Idea Validation Framework](https://www.youtube.com/watch?v=d9uCqKEeJbY)
+- [The 7-Day Business Idea Validation Framework](https://knowledge.gtmstrategist.com/p/7-day-business-idea-validation-framework)
+- [How to validate your idea before building your product, wasting money and time](https://www.mrrunlocked.com/p/how-to-validate-your-idea-before)
+- [A four-part guide to finding problems your customers will pay you to solve using Reddit](https://shavinpeiries.com/scratch-their-itch/)
+- [How to not do product discovery](https://demandmaven.substack.com/p/how-to-not-do-product-discovery)
+- [The cold email that started a $100M/yr from company](https://marketingexamples.com/sales/jason-cohen)
+- [Interview Script: Discovery Phase (before you've built anything)](https://deployempathy.substack.com/p/customer-interview-script-discovery-phase-i-e-before-you-ve-built-anything-415336)
+
+<br/><br/><br/>
+
 ## 🧨 Other resources
 - [100+ Growth Hacks for SaaS](https://mikestrives.notion.site/Growth-Hacks-for-SaaS-100-14252caf2e828076a1afefd80505b19e)
 - [GitHub Search Engine Optimization (SEO): how to rank your repository in GitHub search](https://www.markepear.dev/blog/github-search-engine-optimization)
@@ -256,7 +322,4 @@ Here are a few frameworks to get your price right:
 ## 👨‍💻 About
 This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
 
-_**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on X](https://x.com/e_stradella)**_
-
-[![Fazier badge](https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=neutral)](https://fazier.com)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21ITHKD)
